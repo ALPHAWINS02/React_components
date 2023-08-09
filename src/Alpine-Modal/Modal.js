@@ -22,10 +22,10 @@ export default function Modal() {
           </div>
           <div className="modal__content">
             <div className="modal__image">
-              <img src="https://images.unsplash.com/photo-1618220179428-22790b461013?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=3027&q=80" alt="Modal Image" />
+              <img src="https://images.pexels.com/photos/7919/pexels-photo.jpg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" alt="Modal Image" />
             </div>
             <h1>
-            Hi Alpha here this virtual curtain style in world of Animation
+            Hi Alpha here this is virtual curtain, style in world full of Animation
             </h1>
             <button onClick={closeModal}>Let's Go back</button>
           </div>
