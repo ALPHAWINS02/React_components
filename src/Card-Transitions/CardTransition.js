@@ -1,5 +1,6 @@
 // CardTransition.js 
 import React from 'react'
+import './index.css'
 
 export default function CardTransition() {
   return (
@@ -10,7 +11,7 @@ export default function CardTransition() {
       <input type="radio" name="toggle" id="toggle3" />
       <section id="section-1">
         <div className="image-container">
-          <img src="https://unsplash.it/500/600?image=939" alt="" />
+          <img src="https://images.pexels.com/photos/13234166/pexels-photo-13234166.jpeg?auto=compress&cs=tinysrgb&w=600&lazy=load" alt="" />
         </div>
         <div className="info-container">
           <h1>Hello.</h1>
@@ -19,7 +20,7 @@ export default function CardTransition() {
       </section>
       <section id="section-2">
         <div className="image-container">
-          <img src="https://unsplash.it/500/600?image=868" alt="" />
+          <img src="https://images.pexels.com/photos/11897866/pexels-photo-11897866.jpeg?auto=compress&cs=tinysrgb&w=600&lazy=load" alt="" />
         </div>
         <div className="info-container">
           <h1>Hello Again.</h1>
