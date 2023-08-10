@@ -71,42 +71,51 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 
 1. Alpine-Modal: virtual curtain animation.
  [Try It Here!](https://github.com/ALPHAWINS02/React_components/tree/main/src/Alpine-Modal)
+.
 https://github.com/ALPHAWINS02/React_components/assets/75584422/2e57efee-afd4-437f-8828-a6007c49c4e5
 .
 2.Checkbox:
 [Try It Here](https://github.com/ALPHAWINS02/React_components/tree/main/src/Animated-Fill-Checkboxes)
+.
 https://github.com/ALPHAWINS02/React_components/assets/75584422/5a3dd4e1-4987-4b91-8352-ae72b405482a
 .
 3. Page Animation :
 [Try It Here](https://github.com/ALPHAWINS02/React_components/tree/main/src/Animated-LandingPage)
+.
 https://github.com/ALPHAWINS02/React_components/assets/75584422/d986808e-7adc-4805-aba4-0df1ba7da95b
-
+.
 4.Animated-Theme-Switch:
 [Try It Here](https://github.com/ALPHAWINS02/React_components/tree/main/src/Animated-Theme-Switch)
 
-
+.
 https://github.com/ALPHAWINS02/React_components/assets/75584422/1ed4e2d3-9b24-4ac4-bfdf-b6e2c7711617
 .
 5.Animated-menu-indicator:
 [Try It Here](https://github.com/ALPHAWINS02/React_components/tree/main/src/Animated-menu-indicator)
-
+.
 https://github.com/ALPHAWINS02/React_components/assets/75584422/43856948-26a1-4213-b651-4b992b6001a7
+.
 6. Announcement-Bar:
 [Try It Here](https://github.com/ALPHAWINS02/React_components/tree/main/src/Announcement-Bar)
+.
 
 https://github.com/ALPHAWINS02/React_components/assets/75584422/08ecfbb1-8e6b-494b-b41e-ad4cb12fd79c
+.
 7. Blog-cards
 [Try It Here](https://github.com/ALPHAWINS02/React_components/tree/main/src/Blog-cards)
+.
 8. Card Hover:
 [Try It Here](https://github.com/ALPHAWINS02/React_components/tree/main/src/Card-Hover)
+.
 10. Blurry Wave Hero :
 [Try It Here](https://github.com/ALPHAWINS02/React_components/tree/main/src/blurry-wavy-hero)
 .
+.
 https://github.com/ALPHAWINS02/React_components/assets/75584422/5f0365bb-3b0d-4294-8419-bf084081f73b
+.
 11.Border-card-animation
 [Try It Here](https://github.com/ALPHAWINS02/React_components/tree/main/src/border-card-animation)
-
-
-
+.
 https://github.com/ALPHAWINS02/React_components/assets/75584422/29e20953-6329-48e7-939f-7d4dd3361360
+.
 
