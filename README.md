@@ -120,4 +120,14 @@ https://github.com/ALPHAWINS02/React_components/assets/75584422/5f0365bb-3b0d-42
 
 https://github.com/ALPHAWINS02/React_components/assets/75584422/29e20953-6329-48e7-939f-7d4dd3361360
 
+12. Detail Card.
+[Try It Here](https://github.com/ALPHAWINS02/React_components/tree/main/src/Detailcard)
+
+https://github.com/ALPHAWINS02/React_components/assets/75584422/5583516d-ba7b-4c56-9e6c-a072e55c6ee8
+
+13. Card Transitions:
+    [Try It Here](https://github.com/ALPHAWINS02/React_components/tree/main/src/Card-Transitions)
+
+
+https://github.com/ALPHAWINS02/React_components/assets/75584422/5099ac22-423f-43da-b614-f018195bceb1
 
