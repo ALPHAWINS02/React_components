@@ -69,20 +69,25 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
 
-1. Alpine-Modal: virtual curtain animation.
+1. Alpine-Modal: virtual curtain animation. :
  [Try It Here!](https://github.com/ALPHAWINS02/React_components/tree/main/src/Alpine-Modal)
 
 https://github.com/ALPHAWINS02/React_components/assets/75584422/2e57efee-afd4-437f-8828-a6007c49c4e5
+
 2. Checkbox:
+   
 [Try It Here](https://github.com/ALPHAWINS02/React_components/tree/main/src/Animated-Fill-Checkboxes)
 
 https://github.com/ALPHAWINS02/React_components/assets/75584422/5a3dd4e1-4987-4b91-8352-ae72b405482a
+
 3. Page Animation :
+   
 [Try It Here](https://github.com/ALPHAWINS02/React_components/tree/main/src/Animated-LandingPage)
 
 https://githubcom/ALPHAWINS02/React_components/assets/75584422/d986808e-7adc-4805-aba4-0df1ba7da95b
 
 4. Animated-Theme-Switch:
+   
 [Try It Here](https://github.com/ALPHAWINS02/React_components/tree/main/src/Animated-Theme-Switch)
 
 
