@@ -131,3 +131,43 @@ https://github.com/ALPHAWINS02/React_components/assets/75584422/5583516d-ba7b-4c
 
 https://github.com/ALPHAWINS02/React_components/assets/75584422/5099ac22-423f-43da-b614-f018195bceb1
 
+14.clipped-image-hover:
+[Try It Here](https://github.com/ALPHAWINS02/React_components/tree/main/src/clipped-image-hover)
+
+https://github.com/ALPHAWINS02/React_components/assets/75584422/23d36d73-b149-4b7b-aa8f-9236f949631e
+
+15.Dropdown-list
+[Try It Here](https://github.com/ALPHAWINS02/React_components/tree/main/src/Dropdown-list)
+
+https://github.com/ALPHAWINS02/React_components/assets/75584422/30b43a59-95e3-4773-9715-74dc5a25bc11
+
+16. ERROR 404
+[Try It Here](https://github.com/ALPHAWINS02/React_components/tree/main/src/Error-404)
+
+https://github.com/ALPHAWINS02/React_components/assets/75584422/3a5a92a8-e988-467f-81d5-619538e6add5
+
+17.Expand Card 
+[Try It Here](https://github.com/ALPHAWINS02/React_components/tree/main/src/Expand-card)
+
+
+https://github.com/ALPHAWINS02/React_components/assets/75584422/5fb9ee23-71ec-4715-bdba-d18a19f3d0a9
+
+
+18.Input Field Animation:
+[Try It Here](https://github.com/ALPHAWINS02/React_components/tree/main/src/Field-Animations)
+
+https://github.com/ALPHAWINS02/React_components/assets/75584422/ac257fe4-2115-4893-b5e3-8b3f4c92e21a
+
+19.Floating-hover-card
+[Try It Here](https://github.com/ALPHAWINS02/React_components/tree/main/src/Floating-hover-card)
+
+https://github.com/ALPHAWINS02/React_components/assets/75584422/58339af2-416e-4056-967f-08a77e0acb13
+
+20. Full Page Animation 
+[Try It Here](https://github.com/ALPHAWINS02/React_components/tree/main/src/Full-Page-Navigation)
+
+
+https://github.com/ALPHAWINS02/React_components/assets/75584422/8a37c83d-99ed-4654-812f-4ae29f4ed4c0
+
+
+
