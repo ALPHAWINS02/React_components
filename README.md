@@ -74,6 +74,8 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 .
 https://github.com/ALPHAWINS02/React_components/assets/75584422/2e57efee-afd4-437f-8828-a6007c49c4e5
 .
+Alpine-Modal: Elevate your React applications with a visually appealing virtual curtain animation, seamlessly enhancing user interactions and content transitions. Add a touch of elegance and innovation to your UI design effortlessly.
+.
 2.Checkbox:
 [Try It Here](https://github.com/ALPHAWINS02/React_components/tree/main/src/Animated-Fill-Checkboxes)
 .
